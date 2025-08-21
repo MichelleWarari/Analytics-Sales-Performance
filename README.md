@@ -22,13 +22,13 @@ It provides a **Year-over-Year (YoY) comparison** between 2023 and 2024 with int
 - `Sales_Dashboard.xlsx` → Interactive Excel dashboard  
 - `Sales Dashboard.PNG` → Screenshot preview of the dashboard  
 
-🔮 Future Improvements
-Planned enhancements for this dashboard include:
-Adding more product categories and sub-categories.
-Automating data refresh using Power Query.
-Expanding KPIs (e.g., Customer Acquisition, Retention).
-Adding trendline forecasts for revenue and profit.
-Publishing a Power BI version for richer interactivity.
+## 🔮 Future Improvements
+- Planned enhancements for this dashboard include:
+- Adding more product categories and sub-categories.
+- Automating data refresh using Power Query.
+- Expanding KPIs (e.g., Customer Acquisition, Retention).
+- Adding trendline forecasts for revenue and profit.
+- Publishing a Power BI version for richer interactivity.
 
 ## 🚀 How to Use
 1. Download or clone this repository:
