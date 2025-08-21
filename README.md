@@ -4,7 +4,7 @@
 This project is a **dynamic Excel dashboard** built using **Pivot Tables, Pivot Charts, and Excel functions** to analyze sales performance across regions, products, and time periods.  
 It provides a **Year-over-Year (YoY) comparison** between 2023 and 2024 with interactive navigation for deeper insights.
 ![Overview](./images/Dashboard.PNG)
-![Overview](./images/SalesDashboard.PNG)
+![Overview](./images/Sales-Dashboard.PNG)
 ## 🔑 Features
 - 📈 **Sales Performance KPIs**: Sales, Quantity, Cost, and Profit with YoY % growth.  
 - 📊 **Monthly Revenue Trend**: 2023 vs 2024 revenue visualized over time.  
