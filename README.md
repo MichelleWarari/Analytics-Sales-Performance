@@ -34,4 +34,4 @@ It provides a **Year-over-Year (YoY) comparison** between 2023 and 2024 with int
 ## 🚀 How to Use
 1. Download or clone this repository:
    ```bash
-   git clone https://github.com/MichelleWarari/sales-dashboard.git
+   git clone https://github.com/MichelleWarari/Analytics-Sales-Performance.git
